@@ -2,14 +2,10 @@
 
 Automotive engineer interested in **modeling, simulation, control, and design**, primarily within **mechanical engineering** fields.
 
----
-
 ## Education
 
 **B.Sc. in Mechanical Engineering (Automotive Engineering)**  
 Faculty of Engineering, Ain Shams University
-
----
 
 ## Graduation Projects
 
@@ -18,16 +14,12 @@ Faculty of Engineering, Ain Shams University
 - **GP2:** Development of an AMT (Automated Manual Transmission) control system  
 - **GP1:** Kinematics of a DWS (Double Wishbone Suspension) and its visualization
 
----
-
 ## Modeling & Simulation Projects
 
 🔗 https://github.com/semojaw/IntegratedVehicleModelDocumentation
 
 - **Integrated Vehicle Model**  
   Ongoing research-oriented project focusing on vehicle dynamics modeling and simulation
-
----
 
 ## Skills & Tools
 
@@ -48,8 +40,6 @@ Faculty of Engineering, Ain Shams University
 
 ### Productivity
 - Microsoft Word, Excel, PowerPoint — *Intermediate*
-
----
 
 ## Courses & Certifications
 
